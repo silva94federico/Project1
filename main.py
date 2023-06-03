@@ -21,5 +21,6 @@ if __name__ == '__main__':
 
 def print_something():
     print("Hello")
+    print("Is there anybody out there?")
 
     
